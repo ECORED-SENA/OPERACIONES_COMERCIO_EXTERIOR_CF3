@@ -129,7 +129,7 @@
       .col-lg-8.col-md-10
         p.r-n2 Terminales aéreos
         figure.mb-3
-          img(src="@/assets/tema1/img-17.svg")  
+          img(src="@/assets/tema1/img-17-.svg")  
 
     .row.justify-content-around.align-items-center
       p Entre los inconvenientes que presenta, se encuentran las restricciones y limitaciones técnicas, debido a las dimensiones de puertas y bodegas de los aviones, en cuanto a tamaño y peso de los productos, además de que es un transporte costoso, lo que no lo hace favorable para productos de bajo costo, como las materias primas.
