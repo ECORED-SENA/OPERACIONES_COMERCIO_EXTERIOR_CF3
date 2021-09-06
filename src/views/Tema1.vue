@@ -127,7 +127,7 @@
 
     .row.justify-content-around.align-items-center
       .col-lg-8.col-md-10
-        p.r-n2 Terminales aéreos
+        p.r-n2 Características del transporte aéreo
         figure.mb-3
           img(src="@/assets/tema1/img-17-.svg")  
 
@@ -139,9 +139,7 @@
           li.mb-4 
             i.ii.fas.fa-caret-square-right
             | Valor elevado, que permita pagar costos.
-          li.mb-4 
-            i.ii.fas.fa-caret-square-right
-            | Valor elevado, que permita pagar costos.
+
           li.mb-4 
             i.ii.fas.fa-caret-square-right
             | Urgente su envío por ser perecederas, muestras previo contrato, elementos médicos o de ayuda humanitaria.
@@ -201,7 +199,7 @@
       div(titulo="Zona terrestre")
         .row
           .col-md-6.mb-4.mb-md-0
-            p superficie especial para la operación de la mercancía; ofrece servicio de almacenaje provisional y espacio para organización de los flujos terrestre-marítimo.
+            p Superficie especial para la operación de la mercancía; ofrece servicio de almacenaje provisional y espacio para organización de los flujos terrestre-marítimo.
           .col-md-6
             figure
               img(src='@/assets/tema1/img-31.svg')
@@ -219,7 +217,7 @@
       .col-lg-8.col-md-10
         p.r-n2 Condiciones que se exigen a los puertos     
         figure.mb-3
-          img(src="@/assets/tema1/img-33.svg")  
+          img(src="@/assets/tema1/img-33-.svg")  
 
     .row
       .col-md-6.mb-5  
@@ -296,7 +294,7 @@
               figure.mb-3
                 img(src="@/assets/tema1/img-38.svg")  
     .row.justify-content-around.align-items-center
-      .col-lg-6 
+      .col-lg-6.mb-5 
         a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
@@ -373,7 +371,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p.texto-blanco LSe le invita a consultar la página de la Superintendencia de Transporte, del Ministerio del Transporte, donde puede encontrar las tarifas de las sociedades portuarias para el servicio público que rigen para el año 2021.
+              p.texto-blanco Se le invita a consultar la página de la Superintendencia de Transporte, del Ministerio del Transporte, donde puede encontrar las tarifas de las sociedades portuarias para el servicio público que rigen para el año 2021.
  
             .col-sm-auto
               a.boton.color-acento-botones(:href="('https://www.supertransporte.gov.co/index.php/superintendencia-delegada-de-puertos/tarifas-sociedades-portuarias-y-fluviales/')" target="_blank")
