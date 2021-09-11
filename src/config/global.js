@@ -48,12 +48,12 @@ export default {
       },
     ],
     subMenu: [
-      //{
-      //nombreRuta: 'actividad',
-      //icono: 'far fa-question-circle',
-      //titulo: 'Actividad didáctica',
-      //desarrolloContenidos: true,
-      //},
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -109,15 +109,13 @@ export default {
       texto:
         'Operadores portuarios	Resolución 0000850 de 2017. [Ministerio de Transporte]. Por medio de la cual se establece el contenido del Reglamento de condiciones técnicas de operación de los puertos marítimos y se dictan otras disposiciones. Abril 6 de 2017.	Documento PDF',
       tipo: 'Documento PDF ',
-      link:
-        'https://www.dimar.mil.co/sites/default/files/noticias/resolucion_mintransporte_850_2017-04-06.pdf',
+      descarga: '/downloads/resolucion_mintransporte_850_2017-04-06.pdf',
     },
     {
       texto:
         'Operadores portuarios	Ley 1242 de 2008. Por la cual se establece el Código Nacional de Navegación y Actividades Portuarias Fluviales y se dictan otras disposiciones. Agosto 5 de 2008. DO. Nº 47.072.',
       tipo: 'Documento PDF ',
-      link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1242_2008.html',
+      descarga: '/downloads/LEY_1242_2008.pdf',
     },
     {
       texto:

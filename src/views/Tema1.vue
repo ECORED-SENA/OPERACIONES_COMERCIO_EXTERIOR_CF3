@@ -166,7 +166,7 @@
 
     p La resolución Nº 0000850 de 2017 del Ministerio de transporte “reglamenta las condiciones técnicas de operación de los puertos marítimos y se dictan otras disposiciones”, donde se compila reglamentación general para acceso a los servicios, condiciones técnicas de operación, protocolos y procedimientos, infraestructura y acceso, servicios generales a las naves, pasajeros y carga, operaciones en puertos, control de riesgos del medio ambiente, documentación y autoridades.
     p Los puertos deben cumplir las siguientes condiciones:
-    p.r-n2 Condiciones que se exigen a los puertos
+    p.r-n2 #[strong Condiciones que se exigen a los puertos]
 
     .row.align-items-center.img-c.mb-5
       .col-md-4.mx-0.px-0.col-lg-2
@@ -215,7 +215,7 @@
     p.mb-5 Entre los principales servicios básicos portuarios se encuentran los siguientes:
     .row.justify-content-around.align-items-center.img-c.mb-5
       .col-lg-8.col-md-10
-        p.r-n2 Condiciones que se exigen a los puertos     
+        p.r-n2 #[strong Condiciones que se exigen a los puertos]    
         figure.mb-3
           img(src="@/assets/tema1/img-33-.svg")  
 
@@ -314,7 +314,7 @@
         figure.mb-3
             img(src="@/assets/tema1/img-40.svg")  
       .col-lg-6 
-        .r-n2.mb-3 Ítems tarifarios, según servicios
+        .r-n2.mb-3 #[strong Ítems tarifarios, según servicios]
         ul.lista-ul
           li 
             i.iii.fas.fa-caret-square-right
@@ -366,12 +366,12 @@
 
     .tarjeta.color-secundario.p-3.mb-5.px-5
       .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-2.m-2
-          img(src="@/assets/tema1/img-36.svg")
+        .col-auto
+          img(src="@/assets/tema1/img-36.svg", style="width:90px;").m-auto
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p.texto-blanco Se le invita a consultar la página de la Superintendencia de Transporte, del Ministerio del Transporte, donde puede encontrar las tarifas de las sociedades portuarias para el servicio público que rigen para el año 2021.
+              p.mb-0.texto-blanco Se le invita a consultar la página de la Superintendencia de Transporte, del Ministerio del Transporte, donde puede encontrar las tarifas de las sociedades portuarias para el servicio público que rigen para el año 2021.
  
             .col-sm-auto
               a.boton.color-acento-botones(:href="('https://www.supertransporte.gov.co/index.php/superintendencia-delegada-de-puertos/tarifas-sociedades-portuarias-y-fluviales/')" target="_blank")
