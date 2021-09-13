@@ -11,13 +11,13 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica 
+          h2 Pesca milagrosa
         p Apreciado aprendiz, la presente actividad didáctica tiene como objetivo identificar los servicios portuarios.
         p.mb-4 Para desarrollar esta actividad, primero lea la afirmación de cada ítem y luego señale verdadero o falso según corresponda. Este ejercicio es de repaso, no constituye una actividad evaluativa.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 falso o verdadero.
+              p.fw-bold.mb-0 falso o verdadero
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
