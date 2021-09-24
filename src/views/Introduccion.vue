@@ -11,7 +11,7 @@
     .row(data-aos="fade-left")
       .col-lg-6.mb-5
         p Las terminales portuarias de carga desempeñan un papel esencial en la red internacional de transporte, que es al mismo tiempo uno de los mayores promotores para beneficio de la globalización. Aquí se presenta información sobre los términos básicos, los servicios que ofrecen los terminales de carga, los operadores portuarios y los tarifarios, con el fin de preparar el terreno para el desempeño de las funciones que se describen en cada punto, las operaciones y los tipos de equipamiento usados en las terminales; luego se abordan las definiciones de varios indicadores de diseño y rendimiento de las operaciones portuarias; y, por último, se ofrece una visión general de la infraestructura portuaria.
-        p.mb-6 Se tiene la certeza de que estos saberes posibilitarán aún más el alcance de metas dentro del programa Técnico laboral en operaciones portuarias.
+        p.mb-6 Se tiene la certeza de que estos saberes posibilitarán aún más el alcance de metas dentro del programa Técnico laboral en operaciones de comercio exterior.
 
       .col-lg-6
         figure.mb-5

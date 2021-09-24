@@ -293,14 +293,7 @@
             .col-lg-4.mb-4.mb-lg-0
               figure.mb-3
                 img(src="@/assets/tema1/img-38.svg")  
-    .row.justify-content-around.align-items-center
-      .col-lg-6.mb-5 
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto.mb-0
-            h5.mb-0 Enlace web. 
-            p.mb-0 Convenio MARPOL
+   
     p.mb-5 En el convenio MARPOL, se relacionan 6 reglas, mediante anexos, las cuales tienen el propósito de prevenir y reducir la contaminación ocasionada por los buques, derivada de las operaciones normales y accidentalidad. Estos son:
     .r-n2.mb-3 Reglas para prevenir y reducir la contaminación por causa de buques
     figure.mb-3
